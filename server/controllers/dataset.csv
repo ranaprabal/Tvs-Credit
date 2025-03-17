@@ -1,0 +1,13 @@
+product_name,credit_score,max_amount,interest_rate,duration,life_events,location_type,marital_status,occupation,education,age,gender,children,property
+Two Wheeler Loan,650,150000,8.00%,12-48 months,"New Job, Job Promotion","Urban, Semi-Urban","Single, Married","Salaried, Student",Secondary,20-30,Male,No,No
+Used Car Loan,750,1200000,9.50%,36-84 months,"New Job, Family Health Issue",Urban,"Single,Married, Divorced","Salaried, Self Employed",University,25-50,Both,Yes,Yes
+Consumer Durable Loan,750,500000,12.50%,12-36 months,Job Promotion,Urban,"Single, Married","Salaried, Student","Secondary,university",25-45,Male,No,No
+Tractor Loan,650,1000000,12.00%,36-48 months,Business Expansion,"Rural , Semi-Urban","Married, Widowed",Self Employed,None,30-55,Male,Yes,Yes
+InstaCard,670,50000,9.00%,3-24 months,"New Job, Recently Married",Urban,"Single, Married",Salaried,"University, Secondary",25-45,Both,No,No
+Gold Loan,0,2500000,8.80%,6-36 months,"Family Health Issue, marrige","Rural, Urban","Married, Divorced", Self Employed,"University, Secondary",30-60,Both,Yes,Yes
+Loans Against Property,500,5000000,10.00%,120-240 months,"Recently Married, Job Promotion","Urban, Semi-Urban, Rural",Married,Self Employed,University,35-55,Both,Yes,Yes
+Used Commercial Vehicle Loan,650,2000000,10.00%,120-144 months,Business Expansion,"Urban, Rural","Married, Single",Self Employed,None,30-50,Male,Yes,Yes
+Three Wheeler Loan,630,200000,9.50%,12-48 months, Bussiness Expansion,"Urban,Rural",Single Married,Self Employed,Secondary,25-55,Both,Yes,No
+Mobile Loans,750,100000,14.00%,3-24 months,"New Job, Job Promotion","Urban , Rural","Single, Married",Salaried ,"University, Secondary",21-30,Both,No,No
+online Personal loan,750,500000,10.50%,12-60 months,Business Expansion,Urban,Married,Self Employed,Secondary,30-50,Male,Yes,Yes
+Emerging & Mid-corporate Business Loan,720,1500000,11.00%,12-60 months,Business Expansion,urban,Married,Self Employed,Secondary,30-50,Male,Yes,Yes
